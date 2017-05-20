@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495274244 source:c:\users\uatahir\desktop\algoritmaveprogramlama\sinavcalisma\20052017odev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
